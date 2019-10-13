@@ -1,7 +1,8 @@
-package com.handmadecode.amam.model;
+package com.handmadecode.amam.adapter;
 
-import com.handmadecode.amam.request.UserRequest;
-import com.handmadecode.amam.response.UserResponse;
+import com.handmadecode.amam.model.UserRequest;
+import com.handmadecode.amam.model.User;
+import com.handmadecode.amam.model.UserResponse;
 
 import java.util.List;
 

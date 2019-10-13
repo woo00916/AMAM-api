@@ -9,7 +9,7 @@ import org.springframework.data.annotation.Id;
 @AllArgsConstructor
 @Builder
 public class User {
- //   @Id private String id;
-    private String email;
+ @Id private String email;
     private String pw;
+    private boolean auth;
 }

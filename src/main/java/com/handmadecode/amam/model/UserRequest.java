@@ -1,6 +1,5 @@
-package com.handmadecode.amam.request;
+package com.handmadecode.amam.model;
 
-import lombok.Builder;
 import lombok.Getter;
 import lombok.Setter;
 
@@ -8,5 +7,6 @@ import lombok.Setter;
 public class UserRequest {
     private String email;
     private String pw;
+//    private boolean auth;
 
 }
