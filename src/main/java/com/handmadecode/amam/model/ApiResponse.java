@@ -1,4 +1,4 @@
-package com.handmadecode.amam.response;
+package com.handmadecode.amam.model;
 
 import lombok.*;
 

@@ -1,9 +1,7 @@
-package com.handmadecode.amam.response;
+package com.handmadecode.amam.model;
 
-import com.handmadecode.amam.model.User;
 import lombok.Builder;
 
-import java.util.ArrayList;
 import java.util.List;
 
 public class UserResponse extends ApiResponse<User>{
